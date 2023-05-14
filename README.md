@@ -1,7 +1,8 @@
-### Hi there! 👋
+### >>> Hi there! 👋
 
 - 💻 Full-stack developer, part-time adventurer. 🧗‍♀️
 - 📚 Always learning, constantly creating, occasionally sleeping. 😴
+- 📮 Trying to debug life's mysteries. 🤔
 
 <!--
 ### Hi there, I'm a 👨‍💻 Full-stack developer 
