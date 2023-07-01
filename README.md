@@ -1,6 +1,6 @@
 ### >>> Hi there! 👋
 
-- 💻 Full-stack developer, part-time adventurer. 🧗‍♀️
+- 💻 Full-stack developer, part-time adventurer. 🧗‍♀
 - 📚 Always learning, constantly creating, occasionally sleeping. 😴
 - 📮 Trying to debug life's mysteries. 🤔
 
