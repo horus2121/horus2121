@@ -1,15 +1,9 @@
 ### >>> Hi there! 👋
 
-- 💻 Full-stack developer, part-time adventurer. 🧗‍♀
+- 💻 Software developer, part-time adventurer. 🧗‍♀
 - 📚 Always learning, constantly creating, occasionally sleeping. 😴
 - 📮 Trying to debug life's mysteries. 🤔
 
-<!--
-### Hi there, I'm a 👨‍💻 Full-stack developer 
-- 🤖 `while(true) { learn(); }`
-- 🌱 `const growthMindset = true;`
-- 🤔 Trying to debug life's mysteries one line at a time 
- -->
 <!--
 **horus2121/horus2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
